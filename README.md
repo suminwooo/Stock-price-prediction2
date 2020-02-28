@@ -10,7 +10,7 @@
 0. OHLC 값을 이용하여 새로운 변수 생성-> [코드](https://github.com/suminwooo/project2/blob/master/0.%20OHLC%20%EA%B0%92%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B3%80%EC%88%98%20%EC%83%9D%EC%84%B1.ipynb)   
  
 
-1. 종가의 상관계수를 활용.   
+1. 종가의 상관계수를 활용. ->[결과](https://github.com/suminwooo/project2/blob/master/1.plot.pdf)    
 
   - 가설 : 상관관계가 높은 종목들을 활용하여 새로운 대표 지표를 만들어서 활용할 수 있다.    
   - 예를 들어, 한종목이 새로운 index의 위쪽에 있으면 매도 포지션이고 아래에 있다면 매수 포지션이다.(index를 따라갈 것이라고 가정함.)  
