@@ -41,5 +41,5 @@
       : return값을 활용해 -1.0, -0.3, 0.3,,1.0 총 다섯개의 범위에 따라 class를 지정해줌. 
       - 2-3-1. 한개의 종목 활용한 RNN [코드](https://github.com/suminwooo/project2/blob/master/2-3-1.%20%ED%95%9C%EA%B0%9C%EC%9D%98%20%EC%A2%85%EB%AA%A9%20%ED%99%9C%EC%9A%A9%ED%95%9C%20RNN.ipynb)  
       : RNN을 활용하여 데이터를 훈련시킨뒤 다음에 나올 2개의 클래스를 예측하는 모델을 만들어줌.(사용 종목 : 005930)
-      - 2-3-2. RNN 최종모델 [코드](https://github.com/suminwooo/project2/blob/master/2-3-2.%20RNN%20%EC%B5%9C%EC%A2%85%EB%AA%A8%EB%8D%B8.ipynb)
+      - 2-3-2. RNN 최종모델 [코드](https://github.com/suminwooo/project2/blob/master/2-3-2.%20RNN%20%EC%B5%9C%EC%A2%85%EB%AA%A8%EB%8D%B8.ipynb)  
       : 2-2-1을 바탕으로 코드를 정리하고 코스피200에 있는 종목은 사용할수 있도록 설정.
