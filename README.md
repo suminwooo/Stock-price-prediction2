@@ -27,8 +27,10 @@
         - 비슷한 방법으로 분석결과를 시각화 한 결과, 종목도 다양하게 뽑혀져 나오며 그래프도 유의미한 해석을 할 수 있게 되었음.
         - 이번에 나온 결과를 바탕으로 평균을 새로운 index로 잡아서 다양한 모델로 예측을 해 볼 예정.   
 
-      - 1-3. 군집분석-> [코드 1-3-1](https://github.com/suminwooo/project2/blob/master/1-1-1.%20%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%EA%B0%80%2095%25%EC%9D%B4%EC%83%81%EC%9C%BC%EB%A1%9C%20%EA%B5%B0%EC%A7%91.ipynb), [코드 1-3-2](https://github.com/suminwooo/project2/blob/master/1-1-2.%20%EA%B5%B0%EC%A7%91%20%EC%A7%91%ED%95%A9%EC%9D%84%20%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%98%EA%B8%B0.ipynb)   
-
+      - 1-3. 군집분석-> [코드 1-3-1](https://github.com/suminwooo/project2/blob/master/1-3-1.%20%EA%B5%B0%EC%A7%91%20%EB%B6%84%EC%84%9D%20%EC%A7%91%ED%95%A9%20%EB%B6%84%EC%84%9D%20set01%20%ED%85%8C%EC%8A%A4%ED%8A%B8.ipynb), [코드 1-3-2](https://github.com/suminwooo/project2/blob/master/1-3-2.%20%EA%B5%B0%EC%A7%91%20%EB%B6%84%EC%84%9D%20%EC%A7%91%ED%95%A9%20%EB%B6%84%EC%84%9D%20set02%20%ED%85%8C%EC%8A%A4%ED%8A%B8.ipynb)   
+        - 1-2 를 토대로 하나의 종목들이 평균과 얼마나 만나는 지 확인함. 1-3-1은 set01, 1-3-2은 set02. 많이 만나는 경우에는 20여번정도 되고 적게 만나는 경우 10이하이다. 이를 통해 전략을 잘 수립한다면 효과적인 매도매수 포지션을 취할 수 있다.
+        
+- 이후 평균을 예측하여 미래 가격을 
 
 2. 클래스를 활용한 주가 예측 모델 만들기.
 
