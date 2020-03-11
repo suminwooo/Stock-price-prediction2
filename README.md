@@ -55,7 +55,7 @@
 - 2D와 1D를 활용하여 CNN모델을 만들어봄.
 - 데이터는 현재 코스피200 종목중 지난 3년간 계속 유지되어온 종목만 활용
 
-1. 2D 기본모델(close만 활용) [코드](https://github.com/suminwooo/project2/blob/master/2-1.%20%EC%BD%94%EC%8A%A4%ED%94%BC%20200%20%EC%A2%85%EB%AA%A9%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)  
+1. 2D 기본모델(close만 활용) [코드](https://github.com/suminwooo/Stock-price-prediction2/blob/master/3-1.%202D%20%EA%B8%B0%EB%B3%B8%EB%AA%A8%EB%8D%B8(close%EB%A7%8C%20%ED%99%9C%EC%9A%A9).ipynb)  
       : 기본적인 모델을 만들기 위해서 종가를 5일씩 나누어 그림으로 저장해줌.  
       y값같은 경우에는 마지막 5일을 기준으로 6일째 되는날 가격이 오르면 1 가격이 내려가면 0으로 설정
       
