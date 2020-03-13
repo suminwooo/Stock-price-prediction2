@@ -29,9 +29,13 @@
 
       - 1-3. 군집분석-> [코드 1-3-1](https://github.com/suminwooo/project2/blob/master/1-3-1.%20%EA%B5%B0%EC%A7%91%20%EB%B6%84%EC%84%9D%20%EC%A7%91%ED%95%A9%20%EB%B6%84%EC%84%9D%20set01%20%ED%85%8C%EC%8A%A4%ED%8A%B8.ipynb), [코드 1-3-2](https://github.com/suminwooo/project2/blob/master/1-3-2.%20%EA%B5%B0%EC%A7%91%20%EB%B6%84%EC%84%9D%20%EC%A7%91%ED%95%A9%20%EB%B6%84%EC%84%9D%20set02%20%ED%85%8C%EC%8A%A4%ED%8A%B8.ipynb)   
         - 1-2 를 토대로 하나의 종목들이 평균과 얼마나 만나는 지 확인함. 1-3-1은 set01, 1-3-2은 set02. 많이 만나는 경우에는 20여번정도 되고 적게 만나는 경우 10이하이다. 이를 통해 전략을 잘 수립한다면 효과적인 매도매수 포지션을 취할 수 있다.
-        
-- 이후 평균을 예측하여 미래 가격을 
-
+    
+    
+      - 1-4. 최종본-> [코드 1-3-1](https://github.com/suminwooo/project2/blob/master/1-3-1.%20%EA%B5%B0%EC%A7%91%20%EB%B6%84%EC%84%9D%20%EC%A7%91%ED%95%A9%20%EB%B6%84%EC%84%9D%20set01%20%ED%85%8C%EC%8A%A4%ED%8A%B8.ipynb), [코드 1-3-2](https://github.com/suminwooo/project2/blob/master/1-3-2.%20%EA%B5%B0%EC%A7%91%20%EB%B6%84%EC%84%9D%20%EC%A7%91%ED%95%A9%20%EB%B6%84%EC%84%9D%20set02%20%ED%85%8C%EC%8A%A4%ED%8A%B8.ipynb)   
+        - 지금까지를 토대로 단순히 짧은 기간에 다양한 종목과 상관관계를 가지는 것들로만 구성하였을때를 표현함.
+        - 이를 새로운 지표로 활용할수 있다.
+      
+      
 2. 클래스를 활용한 주가 예측 모델 만들기.
 
 - 가설 : 3일간의 데이터를 활용해 5개의 추세로 나누어서 2개의 집합을 하나의 추세로 보고 추세가 들어갈 class를 예측함.
